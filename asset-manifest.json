@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/widgetMonitoringApp/static/css/main.93c08763.css",
-    "main.js": "/widgetMonitoringApp/static/js/main.c94dec19.js",
+    "main.js": "/widgetMonitoringApp/static/js/main.49a7682b.js",
     "static/media/tmp.jpg": "/widgetMonitoringApp/static/media/tmp.9fb70f476fb55d9c3636.jpg",
     "static/media/img3.png": "/widgetMonitoringApp/static/media/img3.981079ad8844953e34d1.png",
     "static/media/img1.png": "/widgetMonitoringApp/static/media/img1.73d022e44c07f0727824.png",
@@ -12,6 +12,6 @@
   },
   "entrypoints": [
     "static/css/main.93c08763.css",
-    "static/js/main.c94dec19.js"
+    "static/js/main.49a7682b.js"
   ]
 }
