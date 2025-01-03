@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TestWidget/static/css/main.0a9f793f.css",
+    "main.css": "/TestWidget/static/css/main.ab0ee3b8.css",
     "main.js": "/TestWidget/static/js/main.e102b10a.js",
     "static/media/tmp.jpg": "/TestWidget/static/media/tmp.9fb70f476fb55d9c3636.jpg",
     "static/media/img3.png": "/TestWidget/static/media/img3.981079ad8844953e34d1.png",
@@ -11,7 +11,7 @@
     "index.html": "/TestWidget/index.html"
   },
   "entrypoints": [
-    "static/css/main.0a9f793f.css",
+    "static/css/main.ab0ee3b8.css",
     "static/js/main.e102b10a.js"
   ]
 }
